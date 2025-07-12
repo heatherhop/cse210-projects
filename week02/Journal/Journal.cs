@@ -67,8 +67,7 @@ public class Journal
         {
             foreach (Entry entry in _entries)
             {
-                outputFile.WriteLine($"{entry._date}~~{entry._promptText}~~{entry._entryText}~~{entry._entryEmotion1
-                }");
+                outputFile.WriteLine($"{entry._date}~~{entry._promptText}~~{entry._entryText}~~{entry._entryEmotion}");
             }
         }
     }

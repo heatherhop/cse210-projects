@@ -12,6 +12,5 @@ class Program
         WritingAssignment writing1 = new WritingAssignment("Heather", "History of Math", "The History of Math in Ancient Eastern Asia");
         Console.WriteLine(writing1.GetSummary());
         Console.WriteLine(writing1.GetWritingInformation());
-
     }
 }

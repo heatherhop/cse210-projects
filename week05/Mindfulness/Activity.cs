@@ -91,12 +91,5 @@ public class Activity
             Thread.Sleep(1000);
             Console.Write("\b \b");
         }
-
-        // for (int i = 5; i > 0; i--)
-        // {
-        //     Console.Write(".");
-        //     Thread.Sleep(1000);
-
-        // }
     }
 }

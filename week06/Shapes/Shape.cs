@@ -21,7 +21,9 @@ public class Shape
     }
 }
 
-// The instructor made this class an abstract class because it didn't make sense to have a virtual funtion like I made above. I made the function this way because the assignment instructions said to. These were his comments.
+// The instructor made this class an abstract class because it didn't make sense to 
+// have a virtual funtion like I made above. I made the function this way because the 
+// assignment instructions said to make an virtual function. These were his comments.
 // Because it does not make sense to define a default body for this method in the
 // base class, rather than make a "virtual" function here like this:
 //
